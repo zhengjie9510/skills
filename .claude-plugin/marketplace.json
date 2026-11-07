@@ -1,0 +1,20 @@
+{
+  "name": "zhengjie-skills",
+  "description": "Claude Code skills maintained by zhengjie9510.",
+  "owner": {
+    "name": "zhengjie9510",
+    "url": "https://github.com/zhengjie9510"
+  },
+  "plugins": [
+    {
+      "name": "zhengjie-skills",
+      "source": "./",
+      "description": "A collection of personal and third-party skills curated by zhengjie9510.",
+      "strict": false,
+      "skills": [
+        "./skills/zotero",
+        "./skills/karpathy-guidelines"
+      ]
+    }
+  ]
+}
