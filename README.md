@@ -17,7 +17,7 @@
 然后按需安装技能包：
 
 ```text
-/plugin install zhengjie-skills@zhengjie-skills
+/plugin install jason-agent-skills@jason-agent-skills
 ```
 
 ## 已收录技能

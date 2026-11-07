@@ -1,5 +1,5 @@
 {
-  "name": "zhengjie-skills",
+  "name": "jason-agent-skills",
   "description": "Claude Code skills maintained by zhengjie9510.",
   "owner": {
     "name": "zhengjie9510",
@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "zhengjie-skills",
+      "name": "jason-agent-skills",
       "source": "./",
       "description": "A collection of personal and third-party skills curated by zhengjie9510.",
       "strict": false,

@@ -17,7 +17,7 @@ Add this repository to Claude Code:
 Then install the skill packages you need:
 
 ```text
-/plugin install zhengjie-skills@zhengjie-skills
+/plugin install jason-agent-skills@jason-agent-skills
 ```
 
 ## Included Skills
